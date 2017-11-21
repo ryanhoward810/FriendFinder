@@ -1,0 +1,25 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Created during Week 13 of UCSD Coding Bootcamp. The goal was to create a Friend Finder app (essentially a dating app but for friends) using Node and Express servers. The user enters the page that leads to a survey. When the user submits the survey, they are matched with a \"friend\" that has the closest match to their personality.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanhoward810/FriendFinder.git"
+  },
+  "author": "Ryan Howard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanhoward810/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/ryanhoward810/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
