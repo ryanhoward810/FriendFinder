@@ -24,6 +24,6 @@ http://
 * Sublime Text - Text Editor
 * Materialize - Wireframe
 
-## Authors
+## Author
 
 * **Ryan Howard** - *HTML/JS/Node.js* - [Ryan Howard](https://github.com/ryanhoward810)
